@@ -1,9 +1,9 @@
-# README
+# UberEats風SPA
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+サーバーサイド：Ruby on Rails
+フロントエンド：React.js
 
-Things you may want to cover:
+Learning
 
 * Ruby version
 
